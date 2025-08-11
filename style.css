@@ -12,7 +12,7 @@ body{
     color: var(--branco);
 }
 .conteudo-titulo{
-    text-aling: center;
+    text-align: center;
 }
 *{
    font-weight: 400;
