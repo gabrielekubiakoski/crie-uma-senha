@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
 :root{
     --branco:white;
-    --cor-de-fundo:#1e0744;
-    --fundo-senha:#42187e;
-    --fundo-texto:#5b32ef;
+    --cor-de-fundo:#010e1c;
+    --fundo-senha:#1e1059;
+    --fundo-texto:#140b36;
     --borda:#483c57;
     --fonte-principal:'Cormorant',monospace;
 }
